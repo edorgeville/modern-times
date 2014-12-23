@@ -3,7 +3,7 @@ modern-times
 
 Intention : Créer une boîte récréant l'univers d'une usine. Notre source d'inspiration fut les premières scènes du film "Modern Times" de Charlie Chaplin. Ainsi, un côté serait recouvert de rouages, un autre de boutons et de leviers et un dernier côté comporterait une glissade de boules qui s'illuminent lorsque la boule est au-dessus.
 
-[![Inpiration première](http://vimeo.com/api/v2/video/12480554.jpg)](https://vimeo.com/12480554)
+[![Inpiration première](http://i.vimeocdn.com/video/70118928_1280x1024.jpg)](https://vimeo.com/12480554)
 Ce projet réalisé par Saskia Freeke, Fin Kingma, Davy Jacobs et Sonja Van Vuure, quatre étudiants du "Utrecht School of Art and Technology", nous a grandement inspiré quant à la réalisation et au style général de notre propre projet. 
 '
 

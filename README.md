@@ -38,14 +38,18 @@ Lors de la réalisation de notre projet, nous avons rencontré divers problèmes
 ## Résultat visuel :
 ![Face led stripes](images/bandes.jpg)
 ![Face led stripes](images/bandes2.jpg)
+
 Les carrés d'alluminium horizontaux sont reliées au capacitive sensor breaker. Les bandes d'alluminium verticales (cachées par le carton) sont reliées à du 3.5V. Lors que la bille passe, elle entre en contact à la fois avec la bande chargée et le capacitive sensor. Cela permet de savoir où se trouve la bille.
--------------
+
 ![Face 1](images/face1.jpg)
 <!-- Deux potentiomètres permettent de controller -->
 Le levier est en réalité un potentiomètre placé à l'horizontale. Il permet "d'allumer" la boite.
--------------
+
+
+
 ![Face 2](images/face2.jpg)
 Trois boutons permettant de changer le mode de couleur des led stripes
--------------
+
+
 ![Face 3](images/face3.jpg)
 Les rouages. Deux moteurs sont placés en arrière de rouages, qui entrainent les autres.
